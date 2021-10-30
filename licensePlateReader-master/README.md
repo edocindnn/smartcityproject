@@ -30,7 +30,5 @@ pip install pytesseract
 # secondly, you have to run the licensePlateDetection.py in terminal itself
 I have used ubuntu linux for this, I runned using the line
 # python3 licensePlateDetection.py
-we have car image:
-![car0](https://user-images.githubusercontent.com/89440905/139521353-c8f734fd-ba75-4d22-9f0b-ab7b82bf050e.jpeg)
 and while running this code in terminal we get
 the respective number plate text as output
