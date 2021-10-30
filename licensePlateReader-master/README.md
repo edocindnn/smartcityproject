@@ -32,3 +32,5 @@ I have used ubuntu linux for this, I runned using the line
 # python3 licensePlateDetection.py
 and while running this code in terminal we get
 the respective number plate text as output
+![Screenshot from 2021-10-30 10-56-00](https://user-images.githubusercontent.com/89440905/139521490-de8f7956-1ab7-4fff-bd64-e597e2289802.png)
+
